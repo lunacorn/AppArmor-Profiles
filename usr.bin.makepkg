@@ -13,7 +13,7 @@
 
   / rix,
   /** rkix,
-  /home/*/.ccache/** rwixlk,
+  /home/*/.cache/** rwixlk,
   /home/*/{Temp,Work/PKGBUILDs}/** rwlk,
   /tmp/** rwkixlk,
   /var/abs/local/** rwkixlk,
